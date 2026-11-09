@@ -24,7 +24,7 @@
 
 ## 文件
 
-- `冰川地震学课件.pptx` — 主课件（50 页，16:9）
+- [`upload-parts/冰川地震学课件.pptx`](https://github.com/JonhXu/glacial-seismology-slides/raw/main/upload-parts/%E5%86%B0%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%AD%A6%E8%AF%BE%E4%BB%B6.pptx) — 主课件（50 页，16:9），点击即可下载
 
 ## 使用建议
 
